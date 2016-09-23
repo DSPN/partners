@@ -2,15 +2,16 @@
 
 * Official Documentation - http://docs.datastax.com/en/latest-dse/datastax_enterprise/install/installAzure.html
 * Deployment Guide https://github.com/DSPN/azure-deployment-guide
+
 * DataStax Enterprise on Azure Marketplace - https://azure.microsoft.com/en-us/marketplace/partners/datastax/datastax-enterprisesingledc/
 * Azure Resource Manager - https://github.com/DSPN/azure-resource-manager-dse
-
 
 * Azure Marketplace Day Materials - https://github.com/DSPN/DataStaxDay
 * DataStax Azure Landing Page - http://www.datastax.com/partners/microsoft-azure
 * DataStax Enterprise Test Drive on Azure - https://azure.orbitera.com/c2m/a/datastax-demo/testdrives/signup?testDrive=757
 
 ## Blog Posts and Videos
+* IHS Case Study (Coming Soon)
 * Cassandra Summit 2016, Applications with Datastax and Azure at Albertsons/Safeway (Gurpreet Singh) - https://www.youtube.com/watch?v=HpjyKtXtIT8
 * DataStax and Azure IoT Reference Architecture - https://blogs.microsoft.com/iot/2016/09/02/iot-in-action-how-datastax-used-azure-to-build-a-scalable-and-resilient-iot-infrastructure/
 * DataStax Virtual Lab - https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/DataStax-Virtual-Lab
@@ -22,4 +23,3 @@
 * DataStax Recognized as Winner for 2016 Microsoft Alliance Global Commercial ISV Partner 
     * http://www.datastax.com/2016/05/datastax-wins-2016-microsoft-isv-partner-award 
     * http://news.microsoft.com/2016/05/31/microsoft-announces-2016-partner-of-the-year-winners-and-finalists/#sm.0001tksokx3j6efprad22i0lf2v8l
-* IHS Case Study (Coming Soon)

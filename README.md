@@ -22,12 +22,12 @@ Through our partner collaboration, we offer tools for deploying on major cloud p
 ## Other Technologies
 * [Pivotal Cloud Foundry](Pivotal%20Cloud%20Foundry.md)
 * Chef
-- Target DSE Cookbook
-- Pivotal DSE Chef
+    * Target DSE Cookbook
+    * Pivotal DSE Chef
 * Puppet
-- Official Puppet Cassandra
-- Unofficial DSE - https://github.com/oaeproject/puppet-hilary/tree/master/modules/dse
-- Unofficial DSE - https://github.com/justinleveck/boxci-dse-cassandra-puppet
+    * Official Puppet Cassandra
+    * Unofficial DSE - https://github.com/oaeproject/puppet-hilary/tree/master/modules/dse
+    * Unofficial DSE - https://github.com/justinleveck/boxci-dse-cassandra-puppet
 * [Containers](Containers.md)
 * Rackspace
 

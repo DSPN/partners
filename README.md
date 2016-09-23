@@ -35,5 +35,7 @@ Through our partner collaboration, we offer tools for deploying on major cloud p
     * Unofficial DSE - https://github.com/justinleveck/boxci-dse-cassandra-puppet
 * [Containers](Containers.md)
 * Rackspace - https://marketplace.rackspace.com/apps/909
+* Datapipe
+    * Deploying DataStax Enterprise on Datapipe Cloud Provider - https://academy.datastax.com/units/deploying-datastax-enterprise-datapipe-cloud-provider
 
 I hope you find these links helpful.  If there are resources you’ve found valuable which we've missed please submit a pull request.

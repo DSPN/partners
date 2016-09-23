@@ -23,3 +23,4 @@
 * DataStax Recognized as Winner for 2016 Microsoft Alliance Global Commercial ISV Partner 
     * http://www.datastax.com/2016/05/datastax-wins-2016-microsoft-isv-partner-award 
     * http://news.microsoft.com/2016/05/31/microsoft-announces-2016-partner-of-the-year-winners-and-finalists/#sm.0001tksokx3j6efprad22i0lf2v8l
+* Azure – The Cloud for Modern Business - https://academy.datastax.com/resources/Azure-Cloud-for-Modern-Business

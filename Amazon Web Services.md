@@ -1,13 +1,15 @@
 # Amazon Web Services
 
-Auto clustering AMI
+* Official Documentation - http://docs.datastax.com/en/datastax_enterprise/4.8/datastax_enterprise/install/installAMI.html
+* Deployment Guide - https://github.com/DSPN/amazon-deployment-guide
 
-* http://docs.datastax.com/en/latest-dse/datastax_enterprise/install/installAMI.html
 * https://github.com/DSPN/amazon-cloudformation-dse
-* https://github.com/DSPN/amazon-deployment-guide
 * https://d0.awsstatic.com/whitepapers/Cassandra_on_AWS.pdf
 * https://aws.amazon.com/quickstart/ (Coming soon)
 
-Deprecated
+## Blog Posts and Videos
+* 
+
+## Deprecated
 * https://aws.amazon.com/amis/datastax-auto-clustering-ami-2-2/
 * http://www.datastax.com/dev/blog/introducing-the-datastax-auto-clustering-ami-2-5

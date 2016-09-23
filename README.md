@@ -26,15 +26,14 @@ Through our partner collaboration, we offer tools for deploying on major cloud p
 
 ## Other Technologies
 * [Pivotal Cloud Foundry](Pivotal%20Cloud%20Foundry.md)
-* [Containers](Containers.md)
-* Chef
-    * Target DSE Cookbook - https://github.com/target/dse-cookbook
-    * Pivotal DSE Chef - https://github.com/michaelklishin/cassandra-chef-cookbook
-* Puppet
-    * Official Puppet Cassandra - https://forge.puppet.com/locp/cassandra
-    * Unofficial DSE - https://github.com/oaeproject/puppet-hilary/tree/master/modules/dse
-    * Unofficial DSE - https://github.com/justinleveck/boxci-dse-cassandra-puppet
-* Rackspace - https://marketplace.rackspace.com/apps/909
+* Containers
+    * [Mesos](Mesos.md)
+    * [Kubernetes](Kubernetes.md)
+    * [Docker](Docker.md)
+* [Chef](Chef.md)
+* [Puppet](Puppet.md)
+* Rackspace
+    * https://marketplace.rackspace.com/apps/909
 * Datapipe
     * Deploying DataStax Enterprise on Datapipe Cloud Provider - https://academy.datastax.com/units/deploying-datastax-enterprise-datapipe-cloud-provider
 

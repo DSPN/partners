@@ -11,5 +11,5 @@ http://www.datastax.com/2016/09/deploy-datastax-enterprise-on-google-cloud-platf
 http://www.datastax.com/2016/01/datastax-enterprise-cloud-worldwide-operations-in-minutes
 https://www.youtube.com/watch?v=5SUOgAt7oxo
 
-Deployment Guide - manual using gcloud cli
+Deployment Guide - manual using gcloud cli - https://academy.datastax.com/units/datastax-enterprise-deployment-guide-google-compute-engine-manual
 Cassandra Bitnami Offer

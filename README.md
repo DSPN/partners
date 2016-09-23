@@ -1,4 +1,4 @@
-# Cloud Partners
+# Partners
 
 There are a large number of ways to deploy DataStax Enterprise and Apache Cassandra.  Finding the best one will involve analysis of your particular environment, balanced against the tools available.  This repo is intended as a round up of those tools.  Some are more mature than others, and all are in a state of development and improvement.
 

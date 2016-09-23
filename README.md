@@ -19,22 +19,23 @@ Through our partner collaboration, we offer tools for deploying on major cloud p
 
 ## Cloud
 * [Amazon Web Services](Amazon%20Web%20Services.md)
-* [Microsoft Azure](Microsoft%20Azure.md)
 * [Google Cloud Platform](Google%20Cloud%20Platform.md)
+* [Microsoft Azure](Microsoft%20Azure.md)
 * [Oracle Cloud](Oracle%20Cloud.md)
+
+## Additional Cloud
 * [Century Link](https://academy.datastax.com/resources/getting-started-datastax-enterprise-centurylink-cloud)
+* [Datapipe](Datapipe.md)
+* [Pivotal Cloud Foundry](Pivotal%20Cloud%20Foundry.md)
+* [Rackspace](Rackspace.md)
+
+## Containers
+* [Docker](Docker.md)
+* [Kubernetes](Kubernetes.md)
+* [Mesos](Mesos.md)
 
 ## Other Technologies
-* [Pivotal Cloud Foundry](Pivotal%20Cloud%20Foundry.md)
-* Containers
-    * [Mesos](Mesos.md)
-    * [Kubernetes](Kubernetes.md)
-    * [Docker](Docker.md)
 * [Chef](Chef.md)
 * [Puppet](Puppet.md)
-* Rackspace
-    * https://marketplace.rackspace.com/apps/909
-* Datapipe
-    * Deploying DataStax Enterprise on Datapipe Cloud Provider - https://academy.datastax.com/units/deploying-datastax-enterprise-datapipe-cloud-provider
 
 We hope you find these links helpful.  If there are resources you’ve found valuable which we've missed please submit a pull request.

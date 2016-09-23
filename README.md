@@ -14,11 +14,10 @@ DataStax offers three fully supported tools that are maintained by our engineeri
 Through our partner collaboration, we offer tools for deploying on major cloud platforms.  These make use of apt-get, but also provide cloud specific functionality to help build VMs.
 
 ## Cloud
-* Amazon Web Services
-* Microsoft Azure
-* Google Cloud Platform (GCP)
-* Oracle Cloud
-* Century Link
+* [Amazon Web Services](Amazon%20Web%20Services.md)
+* [Microsoft Azure](Microsoft%20Azure.md)
+* [Google Cloud Platform](Google%20Cloud%20Platform.md)
+* [Oracle Cloud](Oracle%20Cloud.md)
 
 ## Other Technologies
 * Pivotal Cloud Foundry

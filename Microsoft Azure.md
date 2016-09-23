@@ -1,5 +1,7 @@
 # Microsoft Azure
 
+http://docs.datastax.com/en/latest-dse/datastax_enterprise/install/installAzure.html
+
 https://azure.microsoft.com/en-us/marketplace/partners/datastax/datastax-enterprisesingledc/
 https://github.com/DSPN/azure-resource-manager-dse
 https://github.com/DSPN/azure-deployment-guide

@@ -6,10 +6,12 @@ There are a large number of ways to deploy DataStax Enterprise and Apache Cassan
 
 DataStax offers three fully supported tools that are maintained by our engineering organization.  These install DataStax Enterprise, our certified, tested and supported version of Apache Cassandra.
 
+http://docs.datastax.com/en/latest-dse/datastax_enterprise/install/installTOC.html
 * Linux Repos — apt and yum
 * BitRock Installer
-* OpsCenter Lifecycle Manager
-* In addition, Planet Cassandra has builds of the community version of Apache Cassandra.
+
+* [OpsCenter Lifecycle Manager](https://docs.datastax.com/en/latest-opsc/opsc/LCM/opscLCMOverview.html)
+* In addition, [Planet Cassandra](http://www.planetcassandra.org/) has builds of the community version of Apache Cassandra.
 
 Through our partner collaboration, we offer tools for deploying on major cloud platforms.  
 
@@ -18,17 +20,18 @@ Through our partner collaboration, we offer tools for deploying on major cloud p
 * [Microsoft Azure](Microsoft%20Azure.md)
 * [Google Cloud Platform](Google%20Cloud%20Platform.md)
 * [Oracle Cloud](Oracle%20Cloud.md)
+* [Century Link](https://academy.datastax.com/resources/getting-started-datastax-enterprise-centurylink-cloud)
 
 ## Other Technologies
 * [Pivotal Cloud Foundry](Pivotal%20Cloud%20Foundry.md)
 * Chef
-    * Target DSE Cookbook
-    * Pivotal DSE Chef
+    * Target DSE Cookbook - https://github.com/target/dse-cookbook
+    * Pivotal DSE Chef - https://github.com/michaelklishin/cassandra-chef-cookbook
 * Puppet
-    * Official Puppet Cassandra
+    * Official Puppet Cassandra - https://forge.puppet.com/locp/cassandra
     * Unofficial DSE - https://github.com/oaeproject/puppet-hilary/tree/master/modules/dse
     * Unofficial DSE - https://github.com/justinleveck/boxci-dse-cassandra-puppet
 * [Containers](Containers.md)
-* Rackspace
+* Rackspace - https://marketplace.rackspace.com/apps/909
 
 I hope you find these links helpful.  If there are resources you’ve found valuable which we've missed please submit a pull request.

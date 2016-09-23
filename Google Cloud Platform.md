@@ -1,5 +1,7 @@
 # Google Cloud Platform
 
+http://docs.datastax.com/en/latest-dse/datastax_enterprise/install/installGCE.html
+
 https://console.cloud.google.com/launcher/details/datastax-public/datastax-enterprise
 https://github.com/DSPN/google-container-engine-dse
 https://github.com/DSPN/google-compute-engine-dse

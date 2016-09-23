@@ -5,6 +5,8 @@ OpsCenter Provisioning
 Auto clustering AMI
 AWS Whitepaper - Cassandra on AWS
 
+http://docs.datastax.com/en/latest-dse/datastax_enterprise/install/installAMI.html
+
 
 https://github.com/DSPN/amazon-cloudformation-dse/tree/master/quickstart
 https://github.com/DSPN/amazon-cloudformation-dse/tree/master/multidc

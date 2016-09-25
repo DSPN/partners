@@ -2,7 +2,6 @@
 
 * Official Documentation - http://docs.datastax.com/en/latest-dse/datastax_enterprise/install/installGCE.html
 * Deployment Guide - https://github.com/DSPN/google-deployment-guide
-
 * Google Compute Engine
     * https://console.cloud.google.com/launcher/details/datastax-public/datastax-enterprise
     * https://github.com/DSPN/google-compute-engine-dse

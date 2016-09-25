@@ -1,11 +1,14 @@
 # Microsoft Azure
 
+## Overview
 * Official Documentation - http://docs.datastax.com/en/latest-dse/datastax_enterprise/install/installAzure.html
 * Deployment Guide https://github.com/DSPN/azure-deployment-guide
 
+## Templates
 * DataStax Enterprise on Azure Marketplace - https://azure.microsoft.com/en-us/marketplace/partners/datastax/datastax-enterprisesingledc/
 * Azure Resource Manager - https://github.com/DSPN/azure-resource-manager-dse
 
+## Miscellaneous
 * Azure Marketplace Day Materials - https://github.com/DSPN/DataStaxDay
 * DataStax Azure Landing Page - http://www.datastax.com/partners/microsoft-azure
 * DataStax Enterprise Test Drive on Azure - https://azure.orbitera.com/c2m/a/datastax-demo/testdrives/signup?testDrive=757

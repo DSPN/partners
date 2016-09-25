@@ -1,8 +1,10 @@
 # Amazon Web Services
 
+## Overview
 * Official Documentation - http://docs.datastax.com/en/datastax_enterprise/4.8/datastax_enterprise/install/installAMI.html
 * Deployment Guide - https://github.com/DSPN/amazon-deployment-guide
 
+## Templates
 * https://github.com/DSPN/amazon-cloudformation-dse
 * https://d0.awsstatic.com/whitepapers/Cassandra_on_AWS.pdf
 * https://aws.amazon.com/quickstart/ (Coming soon)

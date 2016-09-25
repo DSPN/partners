@@ -1,7 +1,9 @@
 # Oracle Cloud
 
+## Overview
 * Deployment Guide - https://github.com/DSPN/oracle-deployment-guide
 
+## Templates
 * OPC Scripts	- https://github.com/DSPN/oracle-public-cloud-dse
 * Bare Metal Cloud Scripts - (Coming soon)
 * Oracle Cloud Marketplace - https://cloud.oracle.com/marketplace/en_US/listing/10519856

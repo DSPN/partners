@@ -14,6 +14,7 @@
 * DataStax Enterprise Test Drive on Azure - https://azure.orbitera.com/c2m/a/datastax-demo/testdrives/signup?testDrive=757
 
 ## Blog Posts and Videos
+* Cassandra Summit 2016, Running 400-node Cassandra + Spark Clusters in Azure (Anubhav Kale, Microsoft) - https://www.youtube.com/watch?v=i5_SiGXESY0
 * IHS Case Study - http://www.datastax.com/resources/casestudies/ihs-markit
 * Cassandra Summit 2016, Applications with Datastax and Azure at Albertsons/Safeway (Gurpreet Singh) - https://www.youtube.com/watch?v=HpjyKtXtIT8
 * DataStax and Azure IoT Reference Architecture - https://blogs.microsoft.com/iot/2016/09/02/iot-in-action-how-datastax-used-azure-to-build-a-scalable-and-resilient-iot-infrastructure/

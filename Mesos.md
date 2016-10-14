@@ -1,5 +1,11 @@
 # Apache Mesos, Mesosphere and DC/OS
 
+## Overview
+* Mesosphere and DataStax: Joint Solution Brief - https://mesosphere.com/resources/mesosphere-datastax-joint-solution-brief/
+* Deploying DataStax Enterprise with Mesosphere Enterprise DC/OS - https://mesosphere.com/resources/mesosphere-datastax-whitepaper-deploying-datastax-enterprise-mesosphere-enterprise-dcos/
+* Deploying DataStax Enterprise with Mesosphere Datacenter Operating System - http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Deploying_DSE_with_Mesosphere_Datacenter_Operating_System.pdf
+
+## Blog Posts and Press Coverage
 * Building the DC/OS community with DataStax and CloudBees - https://mesosphere.com/blog/2016/06/02/dcos-datastax-cloudbees/
 * Mesosphere Brings DataStax Enterprise to the DC/OS Universe "App Store" - http://www.marketwired.com/press-release/mesosphere-brings-datastax-enterprise-to-the-dc-os-universe-app-store-2130849.htm
 * How a mix of Cassandra and DC/OS makes massive scale simple - http://www.techrepublic.com/article/how-a-mix-of-cassandra-and-dcos-makes-massive-scale-simple/

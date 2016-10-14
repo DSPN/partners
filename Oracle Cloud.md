@@ -5,7 +5,7 @@
 
 ## Templates
 * OPC Scripts	- https://github.com/DSPN/oracle-public-cloud-dse
-* Bare Metal Cloud Scripts - (Coming soon)
+* Bare Metal Cloud Scripts - https://github.com/DSPN/oracle-bare-metal-cloud-dse
 * Oracle Cloud Marketplace - https://cloud.oracle.com/marketplace/en_US/listing/10519856
 
 ## Blog Posts and Videos

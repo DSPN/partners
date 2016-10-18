@@ -1,7 +1,7 @@
 # Kubernetes
 
 ## Templates
-* Kubernetes Cassandra Example - https://github.com/kubernetes/kubernetes/tree/master/examples/cassandra
+* Kubernetes Cassandra Example - https://github.com/kubernetes/kubernetes/tree/master/examples/storage/cassandra
 * Also see Google Container Engine [here](Google%20Cloud%20Platform.md).
 
 ## Blog Posts and Videos

@@ -9,6 +9,7 @@
 * Oracle Cloud Marketplace - https://cloud.oracle.com/marketplace/en_US/listing/10519856
 
 ## Blog Posts and Videos
+* DataStax at OpenWorld 2016 - https://twitter.com/_cloudguy/status/779084668347949056
 * Bare Metal Cloud Interview - (Coming soon)
 * Deploying DSE on Oracle Bare Metal Cloud - https://goo.gl/Ld7djt
 * https://www.datastax.com/2016/09/run-your-cloud-apps-at-ease-with-datastax-enterprise-dse-on-oracle-compute-cloud-service

@@ -5,7 +5,7 @@
 
 ## Templates
 * Oracle Bare Metal Cloud Scripts - https://github.com/DSPN/oracle-bare-metal-cloud-dse
-* Oracle Compute Cloud Scripts	- https://github.com/DSPN/oracle-public-cloud-dse
+* Oracle Public Cloud Scripts	- https://github.com/DSPN/oracle-public-cloud-dse
 * Oracle Cloud Marketplace - https://cloud.oracle.com/marketplace/en_US/listing/10519856
 
 ## Oracle Bare Metal Cloud Blog Posts and Videos
@@ -16,5 +16,5 @@
 * Deploying DSE on Oracle Bare Metal Cloud - https://goo.gl/Ld7djt
 * Oracle Transforms the Cloud Infrastructure Market - https://www.oracle.com/corporate/pressrelease/iaas-cloud-offerings-091916.html
 
-## Oracle Compute Cloud Blog Posts
+## Oracle Public Cloud Blog Posts
 * Run your cloud apps at ease with DataStax Enterprise (DSE) on Oracle Compute Cloud Service - https://www.datastax.com/2016/09/run-your-cloud-apps-at-ease-with-datastax-enterprise-dse-on-oracle-compute-cloud-service

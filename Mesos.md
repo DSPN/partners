@@ -5,10 +5,11 @@
 * Deploying DataStax Enterprise with Mesosphere Enterprise DC/OS - https://mesosphere.com/resources/mesosphere-datastax-whitepaper-deploying-datastax-enterprise-mesosphere-enterprise-dcos/
 * Deploying DataStax Enterprise with Mesosphere Datacenter Operating System - http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Deploying_DSE_with_Mesosphere_Datacenter_Operating_System.pdf
 
-## Technical
+## Technical Artifacts
 * Mesosphere Universe DSE Package - https://github.com/mesosphere/universe/tree/version-3.x/repo/packages/D/dse
 
 ## Blog Posts and Press Coverage
+* DataStax on DC/OS Demo Video (using AWS) - https://www.youtube.com/watch?v=CWiQWfvvihY
 * How Uber Manages A Million Writes Per Second Using Mesos And Cassandra Across Multiple Datacenters - http://highscalability.com/blog/2016/9/28/how-uber-manages-a-million-writes-per-second-using-mesos-and.html
 * Building the DC/OS community with DataStax and CloudBees - https://mesosphere.com/blog/2016/06/02/dcos-datastax-cloudbees/
 * Mesosphere Brings DataStax Enterprise to the DC/OS Universe "App Store" - http://www.marketwired.com/press-release/mesosphere-brings-datastax-enterprise-to-the-dc-os-universe-app-store-2130849.htm

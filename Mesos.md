@@ -10,6 +10,7 @@
 
 ## Blog Posts and Press Coverage
 * DataStax on DC/OS Demo Video (using AWS) - https://www.youtube.com/watch?v=CWiQWfvvihY
+* DataStax on DC/OS Demo Video (using Microsoft Azure) - https://www.youtube.com/watch?v=7xWZJjmdhpE
 * How Uber Manages A Million Writes Per Second Using Mesos And Cassandra Across Multiple Datacenters - http://highscalability.com/blog/2016/9/28/how-uber-manages-a-million-writes-per-second-using-mesos-and.html
 * Building the DC/OS community with DataStax and CloudBees - https://mesosphere.com/blog/2016/06/02/dcos-datastax-cloudbees/
 * Mesosphere Brings DataStax Enterprise to the DC/OS Universe "App Store" - http://www.marketwired.com/press-release/mesosphere-brings-datastax-enterprise-to-the-dc-os-universe-app-store-2130849.htm

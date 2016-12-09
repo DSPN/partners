@@ -9,6 +9,7 @@
 * Oracle Cloud Marketplace - https://cloud.oracle.com/marketplace/en_US/listing/10519856
 
 ## Oracle Bare Metal Cloud Blog Posts and Videos
+* BMC Interview - https://www.youtube.com/watch?v=FqloSgqalxw
 * Run your cloud apps at any scale with DataStax Enterprise and Oracle’s Bare Metal Cloud Service - https://www.datastax.com/2016/10/cloud-apps-at-any-scale-with-dse-and-oracle-bare-metal
 * DataStax certified NoSQL Cassandra Clusters on Bare Metal Cloud - https://community.oracle.com/community/cloud_computing/bare-metal/blog/2016/10/24/datastax-certified-nosql-cassandra-clusters-on-bare-metal-cloud-service
 * Oracle Bare Metal Cloud Services Are Now Available - https://blogs.oracle.com/cloud/entry/oracle_bare_metal_cloud_services

@@ -1,6 +1,7 @@
 # Pivotal Cloud Foundry
 
 ## Blog Posts and Videos
+* Be Like The Cloud-Natives: Use DataStax For High-Performing Databases https://blog.pivotal.io/pivotal-cloud-foundry/products/be-like-the-cloud-natives-use-datastax-for-high-performing-databases
 * DataStax and Pivotal Integration (Unmanaged Service Broker) - https://www.youtube.com/watch?v=-qOcrTsws7g
 * DataStax and Pivotal Integration (Managed Service Broker) - https://www.youtube.com/watch?v=k13rIia6qqo
 * Pivotal SpringOne - [Cassandra and DataStax Enterprise on PCF — Ben Lackey, Cornelia Davis](https://www.youtube.com/watch?v=klZFAgTObK0)

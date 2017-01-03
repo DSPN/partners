@@ -11,7 +11,7 @@
 ## Miscellaneous
 * Azure Marketplace Day Materials - https://github.com/DSPN/DataStaxDay
 * DataStax Azure Landing Page - http://www.datastax.com/partners/microsoft-azure
-* DataStax Enterprise Test Drive on Azure - https://azure.orbitera.com/c2m/a/datastax-demo/testdrives/signup?testDrive=757
+* DataStax Enterprise Test Drive on Azure - https://testdrive.azure.com/#/test-drive/datastax.datastax-enterprisesingledc
 
 ## Blog Posts and Videos
 * Cassandra Summit 2016, Running 400-node Cassandra + Spark Clusters in Azure (Anubhav Kale, Microsoft) - https://www.youtube.com/watch?v=i5_SiGXESY0
